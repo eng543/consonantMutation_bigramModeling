@@ -2,6 +2,10 @@ Project: Bigram modeling of Welsh consonant mutation
 
 # R script and materials for modeling
 
+This project was designed as a collaborated final project for a computational linguistics 
+course at Northwestern University. The materials included were those I was responsible for 
+as part of the collaboration. The modeling done by my collaborator is not included.
+
 The goal of this project was to investigate the incidence of a phenomena called consonant 
 mutation in Welsh. In this process, the initial consonants of words change (are mutated) 
 depending on the characteristics of the word that precedes it. For example, the word 'caneuon' 
@@ -12,7 +16,7 @@ This project considered differences in the incidence of consonant mutation among
 classes of mutation in Welsh: soft, aspirate, and nasal (named according to the type of sound 
 change they condition). Additionally, it considered whether the incidence of mutation differed 
 across written and spoken corpora of Welsh. The current repository shows the modeling and results 
-for the written corpus only (code for spoken corpus was written by a collaborator). Finally, 
+for the written corpus only (modeling of spoken corpus was done by collaborator). Finally, 
 we considered whether the incidence of consonant mutation is sensitive to how likely any given word 
 is to occur in the language (i.e., its frequency). 
 
