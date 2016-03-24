@@ -39,4 +39,5 @@ This repository contains:
 * proportionMutation_byClass.csv: output dataframe of incidence of mutation by class
 * proportionMutation_byFrequency.csv: output dataframe of incidence of mutation by target frequency
 * soft_environments.txt: a file containing the words that trigger soft mutation
+* welshConsonantMutation.pdf: project writeup, including theoretical motivation, methods, results, and interpretation
 * wordlist.txt: a file containing the target words selected for study
